@@ -17,7 +17,8 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "denali": "0.0.20",
+    "denali": "0.0.x",
+    "denali-cli": "0.0.9",
     "lodash": "^4.17.4",
     "mongoose": "^4.8.2"
   },
